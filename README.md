@@ -9,3 +9,51 @@
 <br>
 
 ![fig1](https://github.com/sxzrt/CIFAR-10-W/blob/main/fig1-source.jpg)  
+
+
+## Link of the Dataset
+
+CIFAR-10-W can be downloaded from the following links:<br>
+* Baidu Yun Drive: 
+
+* Google Drive: 
+
+
+
+
+
+Directories & Files of images
+```shell
+CIFAR-10-W
+├── data_360_cartoon_original/
+│   ├── 360-CT-01/
+│   │      ├── airplane/
+│   │      │      ├── 0001.jpg
+│   │      │      ├── 0002.jpg
+│   │      │      ├── ...
+│   │	   ├── automobile/
+│   │      │      ├── 0001.jpg
+│   │      │      ├── 0002.jpg
+│   │      │      ├── ...
+│   │      └── ...
+│   ├── 360-CT-02/
+│   │      ├── airplane/
+│   │      │      ├── 0001.jpg
+│   │      │      ├── 0002.jpg
+│   │      │      ├── ...
+│   │	   ├── automobile/
+│   │      │      ├── 0001.jpg
+│   │      │      ├── 0002.jpg
+│   │      │      ├── ...
+│   │      └── ...
+│   └── ...
+├── data_google_original/
+│   └── ...
+├── data_bing_original/
+│   └── ...
+├── ...
+└── readme.txt
+```
+
+
+
