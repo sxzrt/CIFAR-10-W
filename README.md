@@ -13,12 +13,7 @@
 
 ## Link of the Dataset
 
-CIFAR-10-W can be downloaded from the following links:<br>
-* Baidu Yun Drive: 
-
-* Google Drive: 
-
-
+If you would like to gain access to the dataset, kindly complete the [form](https://github.com/sxzrt/CIFAR-10-W/blob/main/CIFAR-10-W_Data_Access_Form.pdf) and forward it to xiaoxiao.sun@anu.edu.au. Upon receipt, we will promptly provide you with the download link.
 
 
 
