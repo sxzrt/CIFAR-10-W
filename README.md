@@ -6,7 +6,7 @@
 
 ## Link of the Dataset
 
-You can access dataset [here](】https://drive.google.com/drive/folders/1b5xhY2C4gcLqPYFZ9qZC9EjMLUEgZaMn?usp=drive_link).
+You can access dataset [here](https://drive.google.com/drive/folders/1b5xhY2C4gcLqPYFZ9qZC9EjMLUEgZaMn?usp=drive_link).
 
 
 
