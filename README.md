@@ -6,8 +6,9 @@
 
 ## Link of the Dataset
 
-You can access dataset [here](https://drive.google.com/drive/folders/1b5xhY2C4gcLqPYFZ9qZC9EjMLUEgZaMn?usp=drive_link).
+You can access the dataset [here](https://drive.google.com/drive/folders/1b5xhY2C4gcLqPYFZ9qZC9EjMLUEgZaMn?usp=drive_link).
 
+A linux bash [script](https://github.com/sxzrt/CIFAR-10-W/issues/2) can be used to download the datasets. It is provided by [Adaloglou Nikolas](https://github.com/black0017) 😊.
 
 
 Directories & Files of images
